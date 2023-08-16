@@ -12,6 +12,6 @@
 - You can put your data in the folder `InputData' with the following structure:
 * `InputData/MethodName/Reference/`
 	* im1
-		* literature.mp4
+		* literature.m
 	* im2
-		* literature.mp4
+		* literature.m
